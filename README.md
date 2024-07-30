@@ -1,1 +1,2 @@
-# Interacting more with git and github development space
+# Interacting more with git version control and github.
+
